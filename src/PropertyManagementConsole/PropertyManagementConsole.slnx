@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="PropertyManagementConsole.Tests/PropertyManagementConsole.Tests.csproj" Id="38d8fa98-428a-4d74-8143-eff49c11ebad" />
+  <Project Path="PropertyManagementConsole/PropertyManagementConsole.csproj" />
+</Solution>
